@@ -1,0 +1,24 @@
+# Python के लिए
+__pycache__/
+*.py[cod]
+*$py.class
+
+# एनवायरनमेंट फाइल्स
+.env
+.venv
+env/
+venv/
+venv_dir/
+
+# OS जनरेटेड फाइल्स
+.DS_Store
+Thumbs.db
+
+# बिल्ड और डिस्ट्रिब्यूशन फाइल्स
+dist/
+build/
+*.egg-info/
+
+# VS Code या अन्य एडिटर फाइल्स
+.vscode/
+.idea/
